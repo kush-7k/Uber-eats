@@ -29,12 +29,12 @@ To clone and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/Uber-eats.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd your-repo-name
+   cd Uber-eats
    ```
 
 3. Install dependencies for each part of the application:
@@ -79,7 +79,7 @@ npm run dev
 ## Folder Structure
 
 ```
-your-repo-name/
+Uber-eats/
 │
 ├── frontend/        # User-facing frontend application
 │   ├── src/        # Source code for the frontend
